@@ -1,0 +1,16 @@
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-02 1] connected
+INFO:openflow.of_01:[00-00-00-00-00-01 2] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 2] disconnected
+INFO:openflow.of_01:[00-00-00-00-00-02 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-02 1] connected
+INFO:openflow.of_01:[00-00-00-00-00-01 2] connected
+INFO:openflow.discovery:link detected: 00-00-00-00-00-02.3 -> 00-00-00-00-00-01.3
+INFO:openflow.discovery:link detected: 00-00-00-00-00-01.3 -> 00-00-00-00-00-02.3
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 2] disconnected
+INFO:openflow.of_01:[00-00-00-00-00-02 1] disconnected
+INFO:core:Down.
